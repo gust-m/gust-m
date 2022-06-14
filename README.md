@@ -2,7 +2,7 @@
 
 ###
 <p align="center">I'm working as Front-end Developer and<br>Computer Engineering student at [Instituto Federal Sul de Minas]</p> 
-[Instituto Federal Sul de Minas]: https://portal.pcs.ifsuldeminas.edu.br/
+
 ###
 <p align="center">I am currently using these technologies daily</p>
 
@@ -27,4 +27,4 @@
 
 ###
 
-
+[Instituto Federal Sul de Minas]: https://portal.pcs.ifsuldeminas.edu.br/
