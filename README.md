@@ -1,8 +1,8 @@
 <img align="right" height="200" src="https://c.tenor.com/SfAFhPbbNK4AAAAC/it-turn-on-and-off.gif"  />
 
 ###
-<p align="center">I'm working as Front-end Developer and<br>Computer Engineering student at [Instituto Federal Sul de Minas][1]</p> 
-
+<p align="center">I'm working as Front-end Developer and<br>Computer Engineering student at [Instituto Federal Sul de Minas]</p> 
+[Instituto Federal Sul de Minas]: https://portal.pcs.ifsuldeminas.edu.br/
 ###
 <p align="center">I am currently using these technologies daily</p>
 
@@ -27,4 +27,4 @@
 
 ###
 
-[1]: https://portal.pcs.ifsuldeminas.edu.br/
+
