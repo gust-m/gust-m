@@ -1,7 +1,7 @@
 <img align="right" height="200" src="https://c.tenor.com/SfAFhPbbNK4AAAAC/it-turn-on-and-off.gif"  />
 
 ###
-<p align="center">I'm working as Front-end Developer and<br>Computer Engineering student at [Instituto Federal Sul de Minas]</p> 
+<p align="center">I'm Computer Engineering and currently working as Front-end Developer<br/</p> 
 
 ###
 <p align="center">I am currently using these technologies daily</p>
